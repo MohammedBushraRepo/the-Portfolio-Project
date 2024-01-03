@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\myprj\MyPortfolio\Coree\bin\Debug\netcoreapp3.1\Coree.deps.json
+C:\Users\hp\Desktop\myprj\MyPortfolio\Coree\bin\Debug\netcoreapp3.1\Coree.dll
+C:\Users\hp\Desktop\myprj\MyPortfolio\Coree\bin\Debug\netcoreapp3.1\Coree.pdb
+C:\Users\hp\Desktop\myprj\MyPortfolio\Coree\obj\Debug\netcoreapp3.1\Coree.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\myprj\MyPortfolio\Coree\obj\Debug\netcoreapp3.1\Coree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\myprj\MyPortfolio\Coree\obj\Debug\netcoreapp3.1\Coree.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\myprj\MyPortfolio\Coree\obj\Debug\netcoreapp3.1\Coree.AssemblyInfo.cs
+C:\Users\hp\Desktop\myprj\MyPortfolio\Coree\obj\Debug\netcoreapp3.1\Coree.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\myprj\MyPortfolio\Coree\obj\Debug\netcoreapp3.1\Coree.dll
+C:\Users\hp\Desktop\myprj\MyPortfolio\Coree\obj\Debug\netcoreapp3.1\Coree.pdb

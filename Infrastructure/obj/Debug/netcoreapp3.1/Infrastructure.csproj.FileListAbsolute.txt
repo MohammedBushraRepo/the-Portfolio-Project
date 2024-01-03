@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\bin\Debug\netcoreapp3.1\Coree.dll
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\bin\Debug\netcoreapp3.1\Coree.pdb
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\hp\Desktop\myprj\MyPortfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
